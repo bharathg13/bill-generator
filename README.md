@@ -3,7 +3,7 @@
 
 # output
 
-============== BILL RECEIPT ==============
+============== BILL RECEIPT ============== \n
 Customer Name: bharat
 Billing Date : 2025-05-30 02:14 pm
 ------------------------------------------
